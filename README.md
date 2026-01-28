@@ -31,7 +31,7 @@ It can be quickly scanned with a smartphone or QR reader to access the encoded c
 4. Copy all the code from the file named "qrcode.py" and paste it into your own file.
 
 5. Finally, run your code in the terminal. Example:
-   - ![done](images/done.py)
+   - ![done](images/done.png)
 > [!NOTE]
 > The QR code is saved by default in the ".svg" (Scalable Vector Graphics) format, not as ".png". You can change it if you wish.
 
