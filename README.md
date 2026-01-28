@@ -19,7 +19,7 @@ It can be quickly scanned with a smartphone or QR reader to access the encoded c
 
 1. First, to use the 'pyqrcode' library, we need to download the libary:
    - You need to go to the terminal and write:
-     ![downloading](images/install.png)
+   ![downloading](images/install.png)
 
 2. You need to open your code editor and copy the contents of the file named "qrcode.py" and save it into the file you created.
      - VS Code
