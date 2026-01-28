@@ -35,6 +35,7 @@ It can be quickly scanned with a smartphone or QR reader to access the encoded c
 > [!NOTE]
 > The QR code is saved by default in the ".svg" (Scalable Vector Graphics) format, not as ".png". You can change it if you wish.
 
-@github/support Good Job! Now you can create your own qrcodes!
 
+
+I hope the code I wrote is useful to you. Best regards.
 _by Emin_
