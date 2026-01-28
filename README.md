@@ -19,8 +19,22 @@ It can be quickly scanned with a smartphone or QR reader to access the encoded c
 
 1. First, to use the 'pyqrcode' library, we need to download the libary:
    - You need to go to the terminal and write:
-   ![downloading](images/install.png)
+   - ![download](images/install.png)
 
 2. You need to open your code editor and copy the contents of the file named "qrcode.py" and save it into the file you created.
      - VS Code
      - PyCharm etc.
+
+3. You should import the "pyqrcode" library within your code file: 'import pyqrcode'
+   - ![import](images/import.png)
+
+4. Copy all the code from the file named "qrcode.py" and paste it into your own file.
+
+5. Finally, run your code in the terminal. Example:
+   - ![done](images/done.py)
+> [!NOTE]
+> The QR code is saved by default in the ".svg" (Scalable Vector Graphics) format, not as ".png". You can change it if you wish.
+
+@github/support Good Job! Now you can create your own qrcodes!
+
+_by Emin_
