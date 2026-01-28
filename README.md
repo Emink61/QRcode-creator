@@ -38,4 +38,5 @@ It can be quickly scanned with a smartphone or QR reader to access the encoded c
 
 
 I hope the code I wrote is useful to you. Best regards.
+
 _by Emin_
